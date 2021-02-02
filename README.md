@@ -1,3 +1,2 @@
-# Estudos Hcode
-
-<h3>Repositório para armazenamento dos arquivos das aulas no curso da Hcode</h3>
+# Estudos_Laravel
+Repositório criado para a migração de arquivos referentes ao curso de laravel estudados por mim. 

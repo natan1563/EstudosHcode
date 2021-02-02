@@ -1,0 +1,15 @@
+{
+    "name": "natromafe/composer",
+    "description": "Aula de PHP7",
+    "type": "project",
+    "authors": [
+        {
+            "name": "natan1563",
+            "email": "natromafe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
